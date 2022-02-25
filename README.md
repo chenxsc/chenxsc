@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there ~ 👋
+
+![CYY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chenxsc&show_icons=true&hide_border=true&theme=material-palenight&bg_color=DEG,89253e,3a6186&title_color=d2a7ee&text_color=e5e5e5)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxsc&layout=compact&hide_border=true&card_width=297&bg_color=DEG,3a6186,89253e&title_color=d2a7ee&text_color=e5e5e5)
+<!--
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxsc&layout=compact&hide_border=true&card_width=297&bg_color=DEG,181e5f,bb28d4&title_color=d2a7ee&text_color=e5e5e5)
+-->
 
 <!--
 **chenxsc/chenxsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
